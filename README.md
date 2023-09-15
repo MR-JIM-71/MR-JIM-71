@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD JIM ISLAM</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh 🇧🇩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-jim-71&label=Profile%20views&color=0e75b6&style=flat" alt="mr-jim-71" /> </p>
-
-<p align="left"> <a href="https://twitter.com/md jim islam" target="blank"><img src="https://img.shields.io/twitter/follow/md jim islam?logo=twitter&style=for-the-badge" alt="md jim islam" /></a> </p>
 
 - 🔭 I’m currently working on **Programing**
 
@@ -25,4 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-jim-71&show_icons=true&locale=en&layout=compact" alt="mr-jim-71" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-jim-71&show_icons=true&locale=en" alt="mr-jim-71" /></p>
-
